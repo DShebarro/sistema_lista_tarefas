@@ -1,0 +1,1 @@
+web: php -S 0.0.0.0:$PORT sistema_lista_tarefas/index.php
